@@ -1,0 +1,76 @@
+
+map_creat2_o.png
+size: 291,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_atk_0001
+  rotate: true
+  xy: 236, 10
+  size: 79, 54
+  orig: 156, 97
+  offset: 31, 23
+  index: -1
+eff_atk_0003
+  rotate: true
+  xy: 62, 2
+  size: 82, 58
+  orig: 156, 97
+  offset: 34, 23
+  index: -1
+eff_atk_0005
+  rotate: true
+  xy: 1, 1
+  size: 82, 60
+  orig: 156, 97
+  offset: 41, 22
+  index: -1
+eff_atk_0007
+  rotate: true
+  xy: 179, 89
+  size: 79, 55
+  orig: 156, 97
+  offset: 48, 25
+  index: -1
+eff_atk_0009
+  rotate: true
+  xy: 122, 88
+  size: 80, 56
+  orig: 156, 97
+  offset: 45, 22
+  index: -1
+eff_atk_0011
+  rotate: true
+  xy: 62, 85
+  size: 83, 59
+  orig: 156, 97
+  offset: 36, 20
+  index: -1
+eff_atk_0013
+  rotate: true
+  xy: 179, 11
+  size: 77, 56
+  orig: 156, 97
+  offset: 32, 21
+  index: -1
+eff_atk_0015
+  rotate: true
+  xy: 235, 90
+  size: 78, 55
+  orig: 156, 97
+  offset: 32, 24
+  index: -1
+eff_atk_0017
+  rotate: true
+  xy: 1, 84
+  size: 84, 60
+  orig: 156, 97
+  offset: 36, 22
+  index: -1
+eff_atk_0019
+  rotate: true
+  xy: 121, 4
+  size: 80, 57
+  orig: 156, 97
+  offset: 45, 24
+  index: -1

@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","UI"],collisionMatrix:[[true],[false,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/LoginScene.fire",orientation:"portrait",jsList:["assets/scripts/libs/fflate/fflate.min.7db9d.js"],bundleVers:{internal:"d17e2",resources:"4917f",main:"ed806"}};

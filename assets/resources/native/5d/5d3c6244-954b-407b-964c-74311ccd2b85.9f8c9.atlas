@@ -1,0 +1,69 @@
+
+ui_zandoukaishi_o.png
+size: 991,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 659, 5
+  size: 82, 92
+  orig: 84, 94
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 742, 8
+  size: 63, 89
+  orig: 65, 91
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 802, 114
+  size: 69, 89
+  orig: 71, 91
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 872, 124
+  size: 75, 79
+  orig: 77, 81
+  offset: 1, 1
+  index: -1
+5
+  rotate: true
+  xy: 659, 98
+  size: 505, 142
+  orig: 505, 142
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 598, 1
+  size: 602, 60
+  orig: 604, 62
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 802, 404
+  size: 188, 199
+  orig: 190, 202
+  offset: 1, 2
+  index: -1
+8
+  rotate: false
+  xy: 802, 204
+  size: 188, 199
+  orig: 190, 201
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 1, 7
+  size: 596, 596
+  orig: 632, 632
+  offset: 18, 18
+  index: -1

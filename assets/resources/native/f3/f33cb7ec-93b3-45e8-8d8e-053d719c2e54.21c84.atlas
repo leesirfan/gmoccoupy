@@ -1,0 +1,27 @@
+
+map_create_o.png
+size: 253,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fazhen
+  rotate: false
+  xy: 179, 54
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+gaungshu
+  rotate: true
+  xy: 1, 1
+  size: 133, 177
+  orig: 145, 194
+  offset: 6, 8
+  index: -1
+lizi
+  rotate: false
+  xy: 179, 15
+  size: 9, 38
+  orig: 11, 40
+  offset: 1, 2
+  index: -1

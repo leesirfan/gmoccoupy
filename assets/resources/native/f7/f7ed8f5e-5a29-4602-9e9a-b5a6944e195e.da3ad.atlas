@@ -1,0 +1,104 @@
+
+map_dk3_o.png
+size: 356,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Slot_02
+  rotate: false
+  xy: 238, 440
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+Slot_03
+  rotate: false
+  xy: 1, 292
+  size: 116, 88
+  orig: 116, 88
+  offset: 0, 0
+  index: -1
+dk3_00
+  rotate: false
+  xy: 118, 257
+  size: 124, 94
+  orig: 150, 150
+  offset: 13, 28
+  index: -1
+dk3_01
+  rotate: true
+  xy: 1, 173
+  size: 118, 99
+  orig: 150, 150
+  offset: 21, 28
+  index: -1
+dk3_02
+  rotate: false
+  xy: 128, 355
+  size: 100, 110
+  orig: 150, 150
+  offset: 36, 20
+  index: -1
+dk3_03
+  rotate: true
+  xy: 125, 466
+  size: 62, 112
+  orig: 150, 150
+  offset: 54, 18
+  index: -1
+dk3_04
+  rotate: true
+  xy: 1, 468
+  size: 60, 123
+  orig: 150, 150
+  offset: 46, 17
+  index: -1
+dk3_05
+  rotate: true
+  xy: 243, 250
+  size: 101, 111
+  orig: 150, 150
+  offset: 23, 20
+  index: -1
+dk3_06
+  rotate: false
+  xy: 230, 148
+  size: 122, 101
+  orig: 150, 150
+  offset: 14, 24
+  index: -1
+dk3_07
+  rotate: false
+  xy: 1, 381
+  size: 126, 84
+  orig: 150, 150
+  offset: 12, 32
+  index: -1
+dk3_08
+  rotate: false
+  xy: 229, 352
+  size: 126, 87
+  orig: 150, 150
+  offset: 12, 31
+  index: -1
+dk3_09
+  rotate: false
+  xy: 101, 161
+  size: 128, 95
+  orig: 150, 150
+  offset: 11, 28
+  index: -1
+dk3_10
+  rotate: false
+  xy: 1, 63
+  size: 130, 97
+  orig: 150, 150
+  offset: 10, 29
+  index: -1
+lg5
+  rotate: true
+  xy: 132, 1
+  size: 146, 182
+  orig: 146, 182
+  offset: 0, 0
+  index: -1

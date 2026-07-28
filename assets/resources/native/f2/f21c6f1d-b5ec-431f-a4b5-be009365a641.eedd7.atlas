@@ -1,0 +1,27 @@
+
+map_wall_o.png
+size: 75,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wall_01
+  rotate: false
+  xy: 1, 1
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+wall_02
+  rotate: false
+  xy: 1, 19
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+wall_03
+  rotate: false
+  xy: 38, 19
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
